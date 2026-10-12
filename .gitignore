@@ -1,0 +1,3 @@
+# Never commit Google/BigQuery keys
+*key*.json
+*credentials*.json
